@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  LongScrollViewController.swift
 //  LongScrollViewExample
 //
 //  Created by Damien Laughton on 17/04/2016.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class LongScrollViewController: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
